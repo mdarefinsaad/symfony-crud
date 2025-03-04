@@ -80,13 +80,16 @@ This project is a Symfony-based CRUD (Create, Read, Update, Delete) application.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-   <span> 
-      <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
-   </span> 
+	<span>
+		<img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
+	</span> 
+   &nbsp;&nbsp;
+	<span>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+	</span>
+	<span> 
    &nbsp;&nbsp;
    <span>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </span>
-   <span> 
-   &nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-   </span> </p>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+	</span>
+</p>
